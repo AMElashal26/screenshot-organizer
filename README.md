@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Screenshot organizer
 
 
@@ -14,6 +13,4 @@ Screenshot organizer
 ## Knowledge base 
 
 ### tbd ->
-=======
 # screenshot-organizer
->>>>>>> f346feb (Initial commit)
